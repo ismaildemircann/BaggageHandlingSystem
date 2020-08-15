@@ -1,7 +1,7 @@
 # Bagaj Taşıma Sistemi
 Bagaj Taşıma Sistemi havaalanlarında kontrol edilen bagajların hareket eden bir bant vasıtasıyla uçağa taşıma ve uçaktan bagaj teslim noktasına taşınma modelidir. Bu sistem Biçimsel Diller ve Otomata dersinde Sonlu Devinim Otomata (NFA) konusu ile alakalıdır.
 Yapılan uygulama OPCAT üzerinde modellenerek C# üzerinde simülasyonu yapıldı.
-### 1 - [NFA Diyagramı](https://github.com/ardasdasdas/baggage-handling-system#1-nfa-diyagram%C4%B1)
+### 1 - [NFA Diyagramı](https://github.com/ismaildemircann/Baggage-Handling-System#1-nfa-diyagram%C4%B1)
 ### 2 - [Uygulama Yazılım Dizaynı](https://github.com/ardasdasdas/baggage-handling-system#2-uygulama-yaz%C4%B1l%C4%B1m-dizayn%C4%B1)
 ### 3 - [Opcat Tasarım Ekran Görüntüleri](https://github.com/ardasdasdas/baggage-handling-system#3-opcat-tasar%C4%B1m-ekran-g%C3%B6r%C3%BCnt%C3%BCleri)
 ### 4 - [Takım Üyeleri](https://github.com/ardasdasdas/baggage-handling-system#4-tak%C4%B1m-%C3%BCyeleri)
